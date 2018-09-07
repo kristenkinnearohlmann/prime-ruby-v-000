@@ -1,5 +1,4 @@
 # Add  code here!
-require 'benchmark'
 def prime?(integer)
   result = ""
   case
